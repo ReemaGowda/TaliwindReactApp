@@ -31,7 +31,7 @@ const Hero = () => {
                 <button className='h-[48px] w-32 rounded-[8px] bg-green-600 text-white'>Search</button>
                
             </div>
-            <p class="mt-8 mb-6 text-sm text-gray-100">Are you a buyer? <a>Click here if you are looking to post a requirements</a></p>
+            <p class="mt-8 mb-6 text-sm text-gray-100">Are you a buyer? <a href='https://www.google.com/'>Click here if you are looking to post a requirements</a></p>
           </div>
         </div>
       </div>

@@ -13,7 +13,7 @@ const Footer = () => {
       >
         <div className="flex flex-col ">
           <div className="flex items-center">
-            <img src={logo} className="w-32 h-16" />
+            <img src={logo} alt="logo"  className="w-32 h-16" />
           </div>
           <div>
             <p>@ reemagowda</p>
@@ -36,12 +36,12 @@ const Footer = () => {
           <h3 className="text-sm  mb-4">Realted</h3>
           <ul>
             <li>
-              <a href="#" className="hover:underline text-sm">
+              <a href="https://www.google.com/" className="hover:underline text-sm">
                 Find buyer
               </a>
             </li>
             <li>
-              <a href="#" className="hover:underline text-sm">
+              <a href="https://www.google.com/" className="hover:underline text-sm">
                 Feedback
               </a>
             </li>

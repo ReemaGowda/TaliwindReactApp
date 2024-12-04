@@ -21,7 +21,7 @@ const Nav = () => {
   return (
     <div className='bg-white flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-grey'>
       {/* Logo */}
-      <img src={logo} className='w-48 h-28'/>
+      <img src={logo} alt='logo' className='w-48 h-28'/>
 
       {/* Desktop Navigation */}
       <ul className='hidden md:flex'>
